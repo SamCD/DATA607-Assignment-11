@@ -1,0 +1,7 @@
+1) I would most likely make sense to do two scenario designs, as the customer and the organization have different goals (viewing high quality material vs. maximizing viewing time and therefore ad revenue)
+
+2) Given that this is a google company, I would expect a more sophisticated recommendation engine based on neural networks. Based on my history with this application, I notice that they appear to weight certain factors differently. FOr example, I have noticed that newer submissions tend to get bumped to the top more frequently.
+
+I was able to gather some background directly from Google ( Source: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf ), which was helpful, and which also confirmed some of my hypotheses. One thing that I found interesting is that they tend to favor implicit metrics, such as length of time viewing and skips, as opposed to explicit (thumbs up/down, etc).
+
+3) As a user, I would prefer more control, especially given what I know now. I would like the option to weight the recent videos more or less. For example, if I am listening to music from a particular artist that has a large catalog, I would like the option for some of the older songs to be mixed in to the recommendations. Additionally, I think it might be a good idea to give some more weight to explicit metrics to give the user more control (although that does not seem to be Google's philosophy and I understand  that)
